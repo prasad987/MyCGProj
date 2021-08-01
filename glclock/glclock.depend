@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1626685875 source:c:\users\prasad\desktop\glclock\main.cpp
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1426329928 c:\users\prasad\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426329928 c:\users\prasad\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1627842814 source:c:\users\prasad\desktop\cgminiproj\glclock\main.cpp
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
